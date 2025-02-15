@@ -7,7 +7,7 @@
 - **比赛成绩**：[2024 DAC-SDC GPU赛道](https://pku-sec-lab.github.io/dac-sdc-2024/results-gpu/) 第二名
   * 精度指标：Precision 0.627，Recall 0.561，F1-Score 0.592，mIoU 0.1834
   * 性能指标：43.66 FPS（Jetson Nano 实时推理）
-  * 总分：16.7659（满分 24.0358）
+  * 总分：16.7659
 - **技术创新**：
   * 全流程 GPU 加速：从预处理到后处理的端到端优化
   * 创新的分割策略：基于多边形近似的道路线分割
